@@ -57,7 +57,7 @@
 }
 
 #contact {
-  display: inline-block;
+  display: inline;
   width: 31%;
   margin: 12px;
 }
@@ -69,7 +69,7 @@
 }
 
 #follow {
-  display: inline;
+  display: inline-block;
   width: 31%;
   float: right;
   margin: 12px;
