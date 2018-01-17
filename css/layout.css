@@ -30,6 +30,8 @@
   width: 66%;
   margin: 0 12px 12px 0;
   display: block;
+  position: relative;
+  left: 12px;
 }
 
 #shoe-archive {
@@ -42,6 +44,8 @@
   float: left;
   margin: 12px 12px 12px 0;
   display: inline-block;
+  position: relative;
+  left: 12px; 
 }
 
 #skaters {
