@@ -48,6 +48,8 @@
   margin: 12px;
   width: 31%;
   display: inline-block;
+  position: relative;
+  left: 4px; 
 }
 
 #bluestar-heels {
