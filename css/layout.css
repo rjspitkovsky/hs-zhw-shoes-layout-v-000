@@ -65,11 +65,12 @@
 #links {
   display: inline-block;
   width: 31%;
-  margin: 12px; 
+  margin: 12px;
 }
 
 #follow {
   display: inline-block;
   width: 31%;
   float: right;
+  margin: 12px; 
 }
