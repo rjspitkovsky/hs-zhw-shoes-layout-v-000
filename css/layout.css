@@ -69,8 +69,8 @@
 }
 
 #follow {
-  display: inline-block;
+  display: inline;
   width: 31%;
   float: right;
-  margin: 12px; 
+  margin: 12px;
 }
