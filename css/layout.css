@@ -57,7 +57,7 @@
 }
 
 #contact {
-  display: inline;
+  display: inline-block;
   width: 31%;
   margin: 12px;
 }
