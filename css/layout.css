@@ -40,7 +40,7 @@
 #lady-bugs {
   width: 31%;
   float: left;
-
+  margin: 10px 10px 10px 0; 
   display: inline-block;
 }
 
