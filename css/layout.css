@@ -59,6 +59,7 @@
 #contact {
   display: inline-block;
   width: 31%;
+  margin: 10px; 
 }
 
 #links {
